@@ -1,6 +1,9 @@
 # Game Card Generator
 A simple python script to generate a PDF of printable (not pretty) game cards
 
+<img width="400" alt="image" src="https://github.com/KaiYuanC/game_card_generator/assets/32350356/0323e189-89a1-4d10-b165-4bcca7620761">
+
+
 ## Context
 There is a boardgame called *The Crew* that I really enjoyed playing during a summer internship, so I decided to purchase it and spread it among more people.
 
