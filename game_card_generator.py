@@ -4,7 +4,8 @@ from reportlab.platypus import SimpleDocTemplate, Table, TableStyle, Paragraph
 from reportlab.lib.styles import getSampleStyleSheet
 import math
 
-FILENAME = "/Users/kaiyuanchi/Dev/card_strings.py"
+# TODO: update to the correct txt file
+FILENAME = "./card_strings.txt"
 
 def format_front(front):
     x, y, z = int(front[1]), int(front[3]), int(front[5])
