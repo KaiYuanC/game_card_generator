@@ -1,5 +1,5 @@
 # Game Card Generator
-A simple python script to generate a PDF of printable (not pretty) game cards
+A simple python script to generate a PDF of printable (not pretty) game cards, with the input of a file of card info texts.
 
 <img width="400" alt="image" src="https://github.com/KaiYuanC/game_card_generator/assets/32350356/0323e189-89a1-4d10-b165-4bcca7620761">
 
